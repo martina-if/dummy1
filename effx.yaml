@@ -5,7 +5,7 @@ service:
 
   # what does this service do? description is used also for full-text search
   description: |
-    dummy service
+    dummy service for effx trial
   # what is the name of the team that owns this service
   team_owner:
     name: athens
